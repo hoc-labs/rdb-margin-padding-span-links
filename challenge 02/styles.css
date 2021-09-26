@@ -1,0 +1,25 @@
+.container {
+  /* background-color: aquamarine; */
+  width: 85%;
+  margin: 0 auto;
+}
+
+.content {
+  background-color: #F1F1F1;
+  padding:40px;
+}
+
+h1 {
+  margin: 45px 0;
+  text-align:center;
+  color: #2E7AD3;
+}
+
+h2 {
+  margin-top: 0;
+  color: #104C90;
+}
+
+.bottom-p {
+  margin-bottom:0;
+}
